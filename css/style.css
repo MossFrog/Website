@@ -169,7 +169,7 @@ header {
 }
 
 #logo_text h1 a .logo_colour { 
-  color: #09D4FF;
+  color: #0959FF;
 }
 
 #logo_text a:hover .logo_colour { 
@@ -501,7 +501,7 @@ ul#nav {
 }
 
 ul#nav ul { 
-  background: #0DBBD5;
+  background: #0959ff;
   margin-top: 5px;
   padding-bottom: 15px;
 }
@@ -516,7 +516,7 @@ ul#nav li a {
 }
 
 ul#nav li a:hover,ul#nav li a:focus { 
-  color: #0DBBD5;
+  color: #09d4ff;
   text-shadow: none;
 }
 
